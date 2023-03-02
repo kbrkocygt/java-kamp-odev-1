@@ -1,1 +1,1 @@
-# java-kamp-odev-1
+# Java-kamp-odevleri
